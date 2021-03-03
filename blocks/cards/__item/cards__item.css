@@ -1,0 +1,7 @@
+.cards__item {
+    flex-basis: 240px;
+}
+
+.cards__item:last-child {
+    margin-right: 340px;
+}
