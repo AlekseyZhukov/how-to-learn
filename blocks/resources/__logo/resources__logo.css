@@ -1,4 +1,6 @@
-.resources__logo {}
+.resources__logo {
+    display: flex;
+}
 
 .resources__logo:hover {
     opacity: 0.6;
